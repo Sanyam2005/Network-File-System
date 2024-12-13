@@ -1,5 +1,5 @@
-# NETWORKING FILES SYSTEM
-## Contrbutors
+# NETWORKING FILE SYSTEM
+## Contributors
 * Sanyam Agrawal
 * Ansh Acharya
 * Adithya Addepalli Casichetty
