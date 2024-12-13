@@ -19,24 +19,24 @@
 * Across all storage servers, any two files or folder can't have same name.
 
 ## Functions we support
-READ Request
-FORMAT :
-READ <file path>
-WRITE Request
-FORMAT :
-WRITE <file path>
+READ Request  
+FORMAT :  
+READ <file path>  
+WRITE Request  
+FORMAT :  
+WRITE <file path>  
 
-CREATE FILE Request
-FORMAT:
-CREATE <path> <file name>
+CREATE FILE Request  
+FORMAT:  
+CREATE <path> <file name>  
 
-CREATE FOLDER Request
-FORMAT :
-CREATEFOLDER <path> <folder name>
+CREATE FOLDER Request  
+FORMAT :  
+CREATEFOLDER <path> <folder name>  
 
-DELETE FILE OR FOLDER Request
-FORMAT :
-DELETE <path>
+DELETE FILE OR FOLDER Request  
+FORMAT :  
+DELETE <path>  
 
 COPY FILE/FOLDER Request
 FORMAT :
