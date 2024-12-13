@@ -21,11 +21,11 @@
 ## Functions we support
 READ Request  
 FORMAT :  
-READ <filepath>  
+READ filepath  
   
 WRITE Request  
 FORMAT :  
-WRITE <filepath>  
+WRITE filepath  
   
 CREATE FILE Request  
 FORMAT:  
