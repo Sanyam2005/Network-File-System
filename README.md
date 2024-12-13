@@ -21,31 +21,31 @@
 ## Functions we support
 READ Request  
 FORMAT :  
-READ filepath  
+READ `<filepath>`  
   
 WRITE Request  
 FORMAT :  
-WRITE filepath  
+WRITE `<filepath>`  
   
 CREATE FILE Request  
 FORMAT:  
-CREATE <path> <filename>  
+CREATE `<path> <filename>`  
   
 CREATE FOLDER Request  
 FORMAT :  
-CREATEFOLDER <path> <foldername>  
+CREATEFOLDER `<path> <foldername>`  
 
 DELETE FILE OR FOLDER Request  
 FORMAT :  
-DELETE <path>  
+DELETE `<path>`  
   
 COPY FILE/FOLDER Request  
 FORMAT :  
-COPY <src> <dest>  
+COPY `<src> <dest>`  
   
 INFO Request  
 FORMAT :  
-INFO <path>  
+INFO `<path>`  
   
 LIST Request  
 FORMAT :  
