@@ -1,0 +1,119 @@
+Communicating with client
+Client socket          : 6
+Request type         : 8
+Request data         : 
+Status data          : -1
+
+Communicating with client
+Client socket          : 6
+Request type         : 8
+Request data         : ./root_directory/dir_psjio/dir_kgabk/dir_jtngu/dir_sptuh
+./root_directory/dir_psjio/dir_kgabk/dir_jtngu/dir_sptuh/file_nda.txt
+./root_directory/dir_psjio/dir_kgabk/dir_jtngu/dir_sptuh/file_ytw.txt
+./root_directory/dir_vymdo/dir_pfaau
+./root_directory/dir_vymdo/dir_pfaau/coldplay.mp3
+./root_directory/dir_vymdo/dir_pfaau/dir_cscou
+./root_directory/dir_vymdo/dir_pfaau/dir_cscou/dir_mbbdr
+./root_directory/dir_vymdo/dir_pfaau/dir_cscou/dir_mbbdr/file_mpe.txt
+./root_directory/dir_vymdo/dir_pfaau/dir_cscou/dir_rjmdf
+./root_directory/dir_vymdo/dir_pfaau/dir_cscou/dir_rjmdf/file_kdx.txt
+./root_directory/dir_vymdo/dir_pfaau/dir_fpkwl
+./root_directory/dir_vymdo/dir_pfaau/dir_fpkwl/dir_cgpqn
+./root_directory/dir_vymdo/dir_pfaau/dir_fpkwl/dir_gxueg
+./root_directory/dir_vymdo/dir_pfaau/student_song
+./root_directory/dir_vymdo/dir_pfaau/student_song/your_song.mp3
+./root_directory/dir_vymdo/dir_picqp/dir_odqtp
+./root_directory/dir_vymdo/dir_picqp/dir_picaz/dir_cdsdh
+./root_directory/dir_vymdo/dir_picqp/dir_picaz/dir_cdsdh/file_dar.txt
+./root_directory/dir_vymdo/dir_picqp/dir_picaz/dir_cdsdh/file_yyj.txt
+./root_directory/dir_vymdo/dir_picqp/dir_picaz/dir_tnaqz
+./root_directory/dir_vymdo/dir_picqp/dir_picaz/dir_tnaqz/file_kox.txt
+./root_directory/dir_vymdo/dir_picqp/dir_picaz/dir_zdoid
+./root_directory/a_song_ice_fire/plot_dir
+./root_directory/a_song_ice_fire/plot_dir/plot.txt
+
+Status data          : 100
+
+Communicating with client
+Client socket          : 6
+Request type         : 9
+Request data         : ot_directory/a_song_ice_fire/plot_dir
+Status data          : 100
+
+Communicating with client
+Client socket          : 6
+Request type         : 1
+Request data         : ./root_directory/a_song_ice_fire/plot_dir/plot.txt
+Status data          : -1
+
+Communicating with client
+Client socket          : 6
+Request type         : 100
+Request data         : 192.168.250.85|5013
+Status data          : 100
+
+Communicating with client
+Client socket          : 6
+Request type         : 1
+Request data         : ./root_directory/a_song_ice_fire/plot_dir/plot.txt
+Status data          : -1
+
+Communicating with client
+Client socket          : 6
+Request type         : 100
+Request data         : 192.168.250.85|5013
+Status data          : 100
+
+Communicating with client
+Client socket          : 6
+Request type         : 1
+Request data         : ./root_directory/a_song_ice_fire/plot_dir/plot.txt
+Status data          : -1
+
+Communicating with client
+Client socket          : 6
+Request type         : 100
+Request data         : 192.168.250.85|5013
+Status data          : 100
+
+Communicating with client
+Client socket          : 6
+Request type         : 1010
+Request data         : ./root_directory/dir_vymdo/dir_pfaau/coldplay.mp3
+Status data          : -1
+
+Communicating with client
+Client socket          : 6
+Request type         : 100
+Request data         : 192.168.250.85|5011
+Status data          : 100
+
+Communicating with client
+Client socket          : 6
+Request type         : 7
+Request data         : ./root_directory/dir_vymdo/dir_pfaau/dir_cscou/dir_mbbdr/file_mpe.txt
+Status data          : -1
+
+Communicating with SS : 1
+SS port              : 5012
+Request type         : 100
+Request data         : 
+
+Communicating with client
+Client socket          : 6
+Request type         : 100
+Request data         : Size: 91 bytes, Permissions: 664, Permissions: -rw-rw-r--, Last modified: 2024-12-02 15:48:15
+Status data          : 100
+
+Communicating with client
+Client socket          : 6
+Request type         : 1010
+Request data         : ./root_directory/dir_vymdo/dir_pfaau/dir_cscou/dir_mbbdr/file_mpe.txt
+Status data          : -1
+
+Communicating with client
+Client socket          : 6
+Request type         : 100
+Request data         : 192.168.250.85|5011
+Status data          : 100
+
