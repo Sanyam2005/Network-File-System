@@ -21,34 +21,35 @@
 ## Functions we support
 READ Request  
 FORMAT :  
-READ <file path>  
+READ <filepath>  
+  
 WRITE Request  
 FORMAT :  
-WRITE <file path>  
-
+WRITE <filepath>  
+  
 CREATE FILE Request  
 FORMAT:  
-CREATE <path> <file name>  
-
+CREATE <path> <filename>  
+  
 CREATE FOLDER Request  
 FORMAT :  
-CREATEFOLDER <path> <folder name>  
+CREATEFOLDER <path> <foldername>  
 
 DELETE FILE OR FOLDER Request  
 FORMAT :  
 DELETE <path>  
-
-COPY FILE/FOLDER Request
-FORMAT :
-COPY <src> <dest>
-
-INFO Request
-FORMAT :
-INFO <path>
-
-LIST Request
-FORMAT :
-LIST
+  
+COPY FILE/FOLDER Request  
+FORMAT :  
+COPY <src> <dest>  
+  
+INFO Request  
+FORMAT :  
+INFO <path>  
+  
+LIST Request  
+FORMAT :  
+LIST  
 DESCRIPTION :
 Lists all accessible paths which can be accessed at the moment (if a storage server is down as well , they are accessible just under read operation only).
 
